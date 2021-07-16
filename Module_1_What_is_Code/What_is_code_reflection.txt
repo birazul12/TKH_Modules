@@ -1,0 +1,113 @@
+
+1.What is a computer really doing whenever you type a letter on a keyboard?
+The keyboard is a mechanical device which has keys.
+The keys when pressed it generates a code or electric signal and this signal is given to CPU via internal data bus.The CPU translates the signal using program for keyboard which is drivers for your keyboard. 
+Finally, the signal gets into translate the signal into code for a selected key that we pressed. 
+This is then passed to program for display which translates into a format to the monitor.
+
+2.How do computer use input and output to create experience?
+All users have experience with computer’s input and output. 
+Users are very much aware of the input and output associated with the computer. 
+They submit input data to the computer to get processed information for the output. 
+The same screen immediately provides the customer’s account balance as output. 
+A forklift operator speaks directly to a computer through a microphone. 
+
+3.Explain why software products are essentially “infinitely reproducible nothings”
+Software products are essentially "infinitely reproducible nothing" because it is very important to sell your software and light up on the screen. 
+If the people are spending so much money, but at the end they are not even able to figure out how to stop antivirus software caviling them to pay up the money.
+Data Management is one of the major problems that must be solved by the programming languages. 
+As the data is increasing day by day and consequently programming is also increasing according to needed. 
+As a result, the selling of infinitely reproducible nothings is also increasing.
+
+
+4.Explain in your own word how code becomes software
+A compiler converts the source code into the language module of the machine (called an object file). 
+Another special application known as a linker joins this object file with other pre-compiled object files, 
+particularly executable modules, to create an executable file. 
+This method is depicted in the graph below. To view an animation of how the executable is built, first click Construct.Click Executable to simulate the execution of a previously created executable file. 
+To simulate rebuilding an executable file, click Rebuild.
+
+Code becomes software when other people can use and run it and it is also documented. 
+Basically, software is the product which is made using a code. 
+So, when all pieces of code are correct as per the requirement, then it will be converted to a software by the team.
+
+5.Explain “algorithms” in your own words
+We all are using algorithms in our daily life for example, to prepare a coffee we have finite steps.
+Algorithm is a step-by-step process to solve a problem Algorithm is independent of programming language and it required at design phase. 
+The person who has domain knowledge he will write an algorithm. 
+It is independent of software and hardware. We analyze algorithms and we test programs.
+
+Properties of algorithm:
+Input: The algorithm must have input values from a specified set.
+Output: Algorithm must produce an output
+Finiteness: Algorithm should contain finite steps.
+Definiteness: All steps should clearly define.
+Effectiveness: Algorithm must be correct.
+
+6.Explain the DRY principle
+DRY Principle: DON'T REPEAT YOURSELF.
+
+If we repeat the data, logic or function in any code it makes our code lengthy and wastes a lot of time when we want to modify the code.
+DRY Principle is aimed to reduce the repetition of code. 
+It states that a piece of code implemented in just one place in the source code. For example: College information using java.
+
+There are two kinds of DRY Principals - without DRY principle and with DRY principal
+
+7.What is object-oriented programming?
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. 
+An object can be defined as a data field that has unique attributes and behavior. For example, JavaScript, Python, C++, C#, and Visual Basic.Net are popular object-oriented languages. 
+There are three major features in object-oriented programming that makes them different than non-OOP languages: encapsulation, inheritance and polymorphism
+
+8.Explain data and how it relates to code
+Data and code have internally the same representation most microprocessors, Lisp (in a way)
+Data can be used as code (sublanguages, domain specific languages) and code can be used as data (encoding Booleans, numbers, lists etc. as functions, replacing data structures with behavioral objects)
+Whether something (a structure, byte stream, whatever) is code or data is metadata: the something itself does not constrain this (condenses is in the eye of the beholder)
+
+9.What is a framework
+Framework: Framework helps developers and designers to focus on building the unique features for their project, rather than re-inventing the wheel by coding common, 
+familiar features found across many websites and web application especially on e-commerce website. 
+A framework can be considered a pre-built temple or structure that handles most of the repetitive or common features. 
+Therefore, unlike a CMS, a framework will probably not have a user interface (although this is not always the case, as Django provides an administration interface). 
+Most of the activity will be done by writing code and interacting with different parts of the framework itself through code. 
+
+Web frameworks may not be necessary, but they are still useful enough to be popular and widely use. 
+This is a trait common to most of the popular web frameworks out there from Angular, Vue, React, and Ember to style and formatting models like Bootstrap. 
+
+
+10.word What is debugging?
+Debugging is the process of identifying, analyzing, and removing bugs in a system. 
+We sometimes use troubleshooting and debugging interchangeably. 
+But generally, we say troubleshooting when we are fixing problems in the system running the application and debugging when we are fixing the bugs in the actual code of the application. 
+There are lots of tools that we can use to get more information about the system and what the programs in our system are doing. 
+Tools like tcpdump and Wireshark can show us ongoing network connections and help us analyze the traffic going over our cables.Tools like ps, top, or free can show us the number and types of resources used in the system. 
+We can use a tool like strace to look at the system calls made by a program, or ltrace to look at the library calls made by the software.
+
+11.Now, with more of an understanding of what code is, why do you want to learn how to code?
+Now in the modern world programming and coding is booming there are multiple reasons behind that and one of the common reasons is increasing in the technology sector, 
+now you can observer anything around you it is all have modern technology like restaurant food you can place an order from home also even with doing call also just need to use one mobile application and place order as per your need.
+so, for this online technology somehow somewhere we need to write code to fulfill this user needs
+In simple terms code is a set of instructions that understands by a computer system and computer execute that instruction to accomplish a particular task.
+In technical term coding is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task. 
+Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy, and resource consumption, and the implementation of algorithms in a chosen programming language commonly referred to as coding.
+Currently there are many programming languages is available and we can select any of this to start our career in technology sector. 
+Now a days python and java are used at a large scale in a big organization.
+
+Basically, there are three-stage programming is divided
+a.	 Low-Level Programming
+b.	 Assembly Level Programming
+c.	 High-Level Programming
+
+Low-Level Programming: In this type of programming developers can write code in binary that means only they can use 1 and 0 so it is at that time it's very difficult to write code 
+and this code only understand by a computer that's by is also known as machine-level code. If an error comes in code, then very difficult to debug
+
+Assembly Level Programming: In this level, some key words were use that makes code understandable for developers also,for example, ADD keyword is used to add two numbers.
+
+High-Level Programming: High-level languages are the languages that are written in the compact form and are not directly accessible 
+by the computer it required a compiler or interpreter through which it decodes from HLL to machine acceptable language, it is more easily understood by the programmer or user in comparison and assembly level of low-level languages.
+
+The main reason behind learning code is the scope of coding is bigger in the coming future, 
+nowadays every industry adopts new technology to make their work process smooth and this is possible only and only by coding that is by you should learn code. 
+Leaning of code is hard at initial stage but after understanding all concept coding will be easier for use to do and its very cool also because we solved real world problem that people face in their daily life.
+
+
+
