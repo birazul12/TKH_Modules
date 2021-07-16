@@ -1,0 +1,11 @@
+• What is Git and how is it different than GitHub
+Git is the most used version control system for developers’ period around the world. Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs. On the other hand, GitHub a public place to host Git Repo is basically the biggest single online asset. Git apart is its branching model, but GitHub is designed as a Git repository hosting service. Git is installed and maintained on our local system, but GitHub is exclusively cloud based. 
+
+• Why uses the terminal
+Generally, we are end user use GUI where an interpreter works behind to do our expected work. For example, when we create a folder click right button then new folder then give a name of the folder. But, if we work this same work without interpreter means directly talk to computer then we need to use terminal, then the command will be - mkdir dirname. So, developers are always need terminal to talk with computer. 
+• Explain 3 benefits of version control in your own words
+
+The 3 benefits of version control as follows:
+1.Record every changing file and the cause of changing. Sometimes bug not fix a newer version then need to be back older version to fix it. So, it works like device driver’s rollback which is very beneficial sometime. 
+2.Ticketing system like Jira software gives describe about the purpose and intent of change of any product. It is very helpful to run software smoothly because ticketing system help to inform developer instantly to fix any problem.
+3.Branching and merging is the best way to work with different team any part of the world. Any big project could be done part by part individually or by team using branch and then get together all work means merging to finish project. Agile method is good for quickly done any software deployment which is early basis. 
