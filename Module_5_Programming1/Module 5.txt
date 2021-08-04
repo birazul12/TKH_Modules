@@ -1,0 +1,36 @@
+1.Explain in your own words what is Python? 
+
+Python is a general-purpose coding language, which means that it may be used for other forms of programming and software development besides web development, unlike HTML, CSS, and JavaScript. These covers, among other things, back-end development, software development, data science, and writing system scripts. Python can be used for a variety of tasks, including Web and mobile app development on the back end (or server-side). Software and desktop app development big data processing and performance Writing system scripts. Mathematical computations (creating instructions that tell a computer system to "do" something).
+Python is a scripting language that is interpreted, object-oriented, and dynamically typed. Because most programming languages have difficult syntax, python has a more comprehensible syntax that is like ordinary English. Python is a programming language that may be used to create mobile apps, system apps, web apps, machine learning, artificial intelligence, and data science. Python is expected to be one of the most popular programming languages in 2021.Python is popular because it is more readable. Python can be applied to a variety of fields. Python has a simple syntax and is a dynamically typed language. Python is an interpreted language that evaluates code line by line, making it easy to find errors. Python offers more built-in functions, so users don't have to create as much code.
+
+2.Explain Data Python Data Types? 
+In the Python programming language, data types are a crucial concept. Every value in Python has its own Python data type. Data Types are the classification of information objects or the categorization of data values into some type of data category. It aids in comprehending the sort of operations which will be performed on a value.
+Python has several data types. In Python, each value has a datatype. Data types are essentially classes, and variables are instances (objects) of these classes, because everything in Python programming is an object. Python provides various standard data types that define the storage method on each of them.
+The following could be a list of python data types.
+It is important to notice that data type could be a crucial notion in programming.
+Variables can store a variety of data, and differing types can perform different tasks.
+Python comes with the subsequent data types pre-installed in these categories:
+
+•Set Types: frozenset, set
+•Mapping Type: dict
+•Sequence Types: range, tuple, list
+•Binary Types: memoryview, bytearray, bytes
+•Boolean Type: bool
+•Numeric Types: complex, float, int
+•Text Type: str
+
+3.Explain in your own words What is a function? 
+
+A function is a block of code that's executed after we call it from some part of a code. A function may be a square of organized, reusable code that's utilized to perform a single, related activity. Capacities give superior seclusion for your application and a tall degree of code reusing. it's used once we need same repetitive steps in several parts of the program with different variable names. We isolate the repetitive steps into a function and call it where needed. The function can process the information and will return the result. In Python, a function is defined using the def keyword followed by function name and a list of variable names/parameters within round parenthesis.
+A function can return a value after processing. in-built functions are already coded in libraries/modules and available for a programmer to use by importing them. For example, max (), min () etc can compute the maximum or minimum value of an inventory passed as a parameter. we can create our own function once we need a functionality that's not built in. for example, we might wish to convert temperature from Fahrenheit to Celsius, we will write our own custom function by passing parameter and getting result from the function. For example, of function that converts a specified number of hours to minutes is given below def hoursToMinutes (hours): return hours * 60
+
+4.Explain the Python print statement? 
+
+Computer science has nothing to do with print statements. In truth, computer science isn't about writing software or developing software. Computer science is mostly a mathematical technique that studies computers and the algorithms that they perform. In most languages, a print statement prints to a console or, in earlier systems, to a line printer (which is why it's called print rather than display, a remnant from the old days). Python print statement is an interpreter, cooperating, and object-oriented programming language. The claim is that Python combines "remarkable power with very clear syntax"; this for a start should be of interest to those who teach programming. The print () function sends a message to the screen or another standard output device. The message can be a string or another object, which will be converted to a string before being displayed on the screen.
+The print () work prints the given protest to the standard yield gadget (screen) or to the content stream record. Keep in mind the time after you composed to begin with program? Yes! I am talking almost the “Hello World” program, which is likely the primary program which anybody learns in their life. That one line of the program incorporates a print explanation that we utilize day by day in our programming without indeed knowing its complexities. The reason of the print () articulation is to print the given question to the standard yield gadget or to the content stream record.
+
+•objects: This means the question to be printed, * demonstrates that there can be more than one object.
+•sep: This means the division which would be between the diverse objects. By default, this esteem is ‘‘.
+•end: The esteem for this parameter is printed at last.
+•file: It ought to be a question with a write(str) strategy. If this esteem isn't specified, it prints objects on the standard yield gadget, i.e., screen.
+•flush: The stream gets coercively flushed on the off chance that this esteem is Genuine. By default, this esteem is False.
